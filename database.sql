@@ -1,6 +1,6 @@
-create database test;
+create database ihaa;
 
-use test;
+use ihaa;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL auto_increment,
